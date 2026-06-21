@@ -1,0 +1,10 @@
+{
+  "name": "zade-prodimg-api",
+  "version": "1.0.0",
+  "description": "Unofficial Prodia Flux.2 API Wrapper by Zade",
+  "main": "api/index.js",
+  "dependencies": {
+    "form-data": "^4.0.1",
+    "node-fetch": "^2.7.0"
+  }
+}
